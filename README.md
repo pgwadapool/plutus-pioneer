@@ -35,4 +35,9 @@ Now open another terminal
 ```
 
 Once the build is complete you can open  https://localhost:8009/ and then run the example
- 
+
+Incase you get any dependency issues the install homebrew
+```console
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+
