@@ -1,7 +1,7 @@
 Setup
 
-    macOS Monterey, v12.0.1
-    processor: ARM M1 (macbook air)
+    macOS Monterey, v12.1
+    processor: Apple M1 (macbook air)
     memory: 16 Gb
  
  Install Nix
