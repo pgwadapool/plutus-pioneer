@@ -20,11 +20,15 @@ Setup
  
  ```console
  2a) git clone https://github.com/input-output-hk/plutus-apps
- 2b) git checkout 7f53f18dfc788bf6aa929f47d840efa1247e11fd
+ 2b) git checkout 7f53f18dfc788bf6aa929f47d840efa1247e11fd 
+ ```
+ or better check for the tag mentioned in week01 cabal for the id
+ 
+ ```console
  3) nix build -f default.nix docs.site
  4) nix-build -A plutus-playground.server
  5) nix-shell
- 6) cd plutus-playground-server 
+ 6) cd plutus-playground-client 
 6a) plutus-playground-server
 ```
 
